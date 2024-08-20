@@ -4,9 +4,9 @@
 
 实例生成结果：
 
-<img src="./example_image/retro_radio.png" alt="boat" style="zoom:25%;" /><img src="./example_image/Pants1.png" alt="Aquarium" style="zoom:50%;" /><img src="./example_image/Pants2.png" alt="Aquarium" style="zoom:50%;" />
+<img src="./example_image/retro_radio.png" alt="boat" style="zoom:50%;" /><img src="./example_image/Pants1.png" alt="Aquarium" style="zoom:50%;" /><img src="./example_image/Pants2.png" alt="Aquarium" style="zoom:50%;" />
 
-<img src="./example_image/golfer.png" alt="dragon" style="zoom:25%;" /><img src="./example_image/Owl1.png" alt="Eagle1" style="zoom:50%;" /><img src="./example_image/Owl2.png" alt="Eagle" style="zoom:50%;" />
+<img src="./example_image/golfer.png" alt="dragon" style="zoom:50%;" /><img src="./example_image/Owl1.png" alt="Eagle1" style="zoom:50%;" /><img src="./example_image/Owl2.png" alt="Eagle" style="zoom:50%;" />
 
 ​                  参考风格图片                              DreamBooth + LoRA                                    Styleid
 
@@ -65,7 +65,7 @@ pip install -e .
 ## 数据预处理
 参考风格数据（Style_B）见https://cloud.tsinghua.edu.cn/f/4caf92b9ac6444659597/?dl=1
 
-下载解压到目录 ./B 内.
+将B放到./内
 
 
 ## 复现结果
