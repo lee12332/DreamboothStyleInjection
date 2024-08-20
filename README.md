@@ -4,7 +4,7 @@
 
 实例生成结果：
 
-<img src="./example_image/retro_radio.png" alt="boat" width="50%" height="50%" /><img src="./example_image/Pants1.png" alt="Aquarium" style="zoom:50%;" /><img src="./example_image/Pants2.png" alt="Aquarium" style="zoom:50%;" />
+<img src="./example_image/retro_radio.png" alt="boat" width="50%" height="50%" /><img src="./example_image/Pants1.png" alt="Aquarium" width="50%" height="50%" /><img src="./example_image/Pants2.png" alt="Aquarium" width="50%" height="50%" />
 
 <img src="./example_image/golfer.png" alt="dragon" style="zoom:50%;" /><img src="./example_image/Owl1.png" alt="Eagle1" style="zoom:50%;" /><img src="./example_image/Owl2.png" alt="Eagle" style="zoom:50%;" />
 
