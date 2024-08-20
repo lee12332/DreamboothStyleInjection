@@ -8,7 +8,7 @@
 
 <img src="./example_image/golfer.png" alt="dragon" width="30%" height="30%" /><img src="./example_image/Owl1.png" alt="Eagle1" width="30%" height="30%" /><img src="./example_image/Owl2.png" alt="Eagle" width="30%" height="30%" />
 
-​                  refer style(left)      &emsp;           DreamBooth + LoRA(mid)             &emsp;              Styleid(right)
+​                  refer style(left)      &emsp;&emsp;           DreamBooth + LoRA(mid)             &emsp;&emsp;              Styleid(right)
 
 ## 简介
 
