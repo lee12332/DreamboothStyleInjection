@@ -8,7 +8,7 @@
 
 <img src="./example_image/golfer.png" alt="dragon"  width="30%" height="30%" /><img src="./example_image/Owl1.png" alt="Eagle1"  width="30%" height="30%" /><img src="./example_image/Owl2.png" alt="Eagle"  width="30%" height="30%" />
 
-​                  参考风格图片                              DreamBooth + LoRA                                    Styleid
+​                  参考风格图片        &emsp; &emsp;                 DreamBooth + LoRA       &emsp; &emsp;                           Styleid
 
 ## 简介
 
