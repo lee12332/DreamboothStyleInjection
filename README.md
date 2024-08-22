@@ -4,11 +4,11 @@
 
 实例生成结果：
 
-<img src="./example_image/retro_radio.png" alt="boat" width="30%" height="30%" /><img src="./example_image/Pants1.png" alt="Aquarium" width="30%" height="30%" /><img src="./example_image/Pants2.png" alt="Aquarium" width="30%" height="30%" />
+<img src="./example_image/retro_radio.png" alt="boat" style="zoom:25%;" /><img src="./example_image/Pants1.png" alt="Aquarium" style="zoom:50%;" /><img src="./example_image/Pants2.png" alt="Aquarium" style="zoom:50%;" />
 
-<img src="./example_image/golfer.png" alt="dragon" width="30%" height="30%" /><img src="./example_image/Owl1.png" alt="Eagle1" width="30%" height="30%" /><img src="./example_image/Owl2.png" alt="Eagle" width="30%" height="30%" />
+<img src="./example_image/golfer.png" alt="dragon" style="zoom:25%;" /><img src="./example_image/Owl1.png" alt="Eagle1" style="zoom:50%;" /><img src="./example_image/Owl2.png" alt="Eagle" style="zoom:50%;" />
 
-​                  refer style(left)      &emsp;&emsp;           DreamBooth + LoRA(mid)             &emsp;&emsp;              Styleid(right)
+​                  参考风格图片                              DreamBooth + LoRA                                    Styleid
 
 ## 简介
 
@@ -32,13 +32,18 @@
 #### 0.执行以下命令安装相应的环境
 
 ```
-conda env create -f environment.yml
+conda create -n jit python==3.9
+conda activate jit
+cd dreambooth
+pip install -r requirements.txt
 ```
 
-#### 1. Clone JDiffusion & Prepare Env
+#### 1. Install JDiffusion
 
 ```
 git clone https://github.com/JittorRepos/JDiffusion.git
+cd JDiffusion
+pip install -e .
 ```
 
 #### 2. Install Requirements
@@ -46,17 +51,10 @@ git clone https://github.com/JittorRepos/JDiffusion.git
 安装JTorch版本的相关深度学习库：
 
 ```
-conda activate jit
 pip install git+https://github.com/JittorRepos/jittor
 pip install git+https://github.com/JittorRepos/jtorch
 pip install git+https://github.com/JittorRepos/diffusers_jittor
 pip install git+https://github.com/JittorRepos/transformers_jittor
-```
-#### 3. Install JDiffusion
-
-```
-cd JDiffusion
-pip install -e .
 ```
 #### 预训练模型
 
@@ -65,12 +63,17 @@ pip install -e .
 ## 数据预处理
 参考风格数据（Style_B）见https://cloud.tsinghua.edu.cn/f/4caf92b9ac6444659597/?dl=1
 
-将B放到./内
+下载解压到目录 ./B 内.
 
-
+## 权重训练
+权重的训练可以运行以下命令：
+```
+bash train_all.sh
+```
 ## 复现结果
 一键生成结果可以运行以下命令：
 ```
+cd dreambooth
 python test.py
 ```
 
