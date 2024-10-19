@@ -4,9 +4,9 @@
 
 实例生成结果：
 
-<img src="./example_image/cactus.png" alt="boat" width="30%" height="30%"/><img src="./example_image/Boat.png" alt="Aquarium"  width="30%" height="30%" /><img src="./example_image/Grass.png" alt="Aquarium"  width="30%" height="30%" /><img src="./example_image/Park.png" alt="Aquarium"  width="30%" height="30%" />
+<img src="./example_image/cactus.png" alt="boat" width="20%" height="20%"/><img src="./example_image/Boat.png" alt="Aquarium"  width="20%" height="20%" /><img src="./example_image/Grass.png" alt="Aquarium"  width="20%" height="20%" /><img src="./example_image/Park.png" alt="Aquarium"  width="20%" height="20%" />
 
-<img src="./example_image/dog.png" alt="dragon"  width="30%" height="30%" /><img src="./example_image/Bed.png" alt="Eagle1"  width="30%" height="30%" /><img src="./example_image/Leaf.png" alt="Eagle"  width="30%" height="30%" /><img src="./example_image/Stadium.png" alt="Eagle"  width="30%" height="30%" />
+<img src="./example_image/dog.png" alt="dragon"  width="20%" height="20%" /><img src="./example_image/Bed.png" alt="Eagle1"  width="20%" height="20%" /><img src="./example_image/Leaf.png" alt="Eagle"  width="20%" height="20%" /><img src="./example_image/Stadium.png" alt="Eagle"  width="20%" height="20%" />
 
 ​                  参考风格图片        &emsp; &emsp;                 DreamBooth + LoRA       &emsp; &emsp;                           style injection
 
