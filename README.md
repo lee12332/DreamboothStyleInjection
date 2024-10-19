@@ -2,14 +2,15 @@
 
 # 赛道二：风格迁移图片生成，Stylebooth
 
-实例生成结果：
+&ensp;&ensp;&ensp;风格参考图&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;生成图1
+&ensp; &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;生成图2
+&ensp; &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;生成图3
+&ensp; &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+<img src="./example_image/cactus.png" alt="boat" width="20%" height="20%"/>&ensp;<img src="./example_image/Boat.png" alt="Aquarium"  width="20%" height="20%" /><img src="./example_image/Grass.png" alt="Aquarium"  width="20%" height="20%" /><img src="./example_image/Park.png" alt="Aquarium"  width="20%" height="20%" />
 
-<img src="./example_image/cactus.png" alt="boat" width="20%" height="20%"/><img src="./example_image/Boat.png" alt="Aquarium"  width="20%" height="20%" /><img src="./example_image/Grass.png" alt="Aquarium"  width="20%" height="20%" /><img src="./example_image/Park.png" alt="Aquarium"  width="20%" height="20%" />
+<img src="./example_image/dog.png" alt="dragon"  width="20%" height="20%" />&ensp;<img src="./example_image/Bed.png" alt="Eagle1"  width="20%" height="20%" /><img src="./example_image/Leaf.png" alt="Eagle"  width="20%" height="20%" /><img src="./example_image/Stadium.png" alt="Eagle"  width="20%" height="20%" />
 
-<img src="./example_image/dog.png" alt="dragon"  width="20%" height="20%" /><img src="./example_image/Bed.png" alt="Eagle1"  width="20%" height="20%" /><img src="./example_image/Leaf.png" alt="Eagle"  width="20%" height="20%" /><img src="./example_image/Stadium.png" alt="Eagle"  width="20%" height="20%" />
-
-​                  参考风格图片        &emsp; &emsp;                 DreamBooth + LoRA       &emsp; &emsp;                           style injection
-
+​                  
 ## 简介
 
 本项目包含了第四届计图人工智能挑战赛 - 风格迁移图片生成（B榜）的代码实现。本项目对参考的28种风格图片进行学习，在每种风格仅有3张参考图的条件下，设计了一套先生成，再调整的框架，其中调整模块是无训练的。结果表明，对风格中特征的学习和主体的保留中取得了很好的效果。
