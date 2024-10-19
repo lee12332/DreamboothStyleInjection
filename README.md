@@ -94,6 +94,7 @@ pip install git+https://github.com/JittorRepos/transformers_jittor
 ## 权重训练
 权重的训练可以运行以下命令：
 ```
+cd stylebooth
 bash train_all.sh
 ```
 ## 复现结果
