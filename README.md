@@ -1,26 +1,20 @@
 | 第四届计图人工智能挑战赛
 
 # 赛道二：风格迁移图片生成，Stylebooth
+![图片描述](图片链接)  
+<sub>这是注释</sub>
 
-&ensp;&ensp;&ensp;&ensp;&ensp;风格参考图&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;生成图1
-&ensp; &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;生成图2
-&ensp; &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;生成图3
-&ensp; &ensp;&ensp;&ensp;&ensp;
-<img src="./example_image/cactus.png" alt="Aquarium" width="24%" height="24%" />
-&ensp;<img src="./example_image/Boat.png" alt="Aquarium"  width="24%" height="24%" />
-<img src="./example_image/Grass.png" alt="Aquarium"  width="24%" height="24%" />
-<img src="./example_image/Park.png" alt="Aquarium"  width="24%" height="24%" />
-&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;cactus 
-&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Boat 
-&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Grass 
-&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Park <br><br>
-<img src="./example_image/dog.png" alt="dragon"  width="24%" height="24%" />
-&ensp;<img src="./example_image/Bed.png" alt="Eagle1"  width="24%" height="24%" />
-<img src="./example_image/Leaf.png" alt="Eagle"  width="24%" height="24%" />
-<img src="./example_image/Stadium.png" alt="Eagle"  width="24%" height="24%" />
-&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;dog
-&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Bed 
-&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Leaf &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Stadium
+风格参考图 生成图1 生成图2 生成图3
+<img src="./example_image/cactus.png" alt="Aquarium" width="20%" height="20%" />
+&ensp;<img src="./example_image/Boat.png" alt="Aquarium"  width="20%" height="20%" />
+<img src="./example_image/Grass.png" alt="Aquarium"  width="20%" height="20%" />
+<img src="./example_image/Park.png" alt="Aquarium"  width="20%" height="20%" />
+cactus Boat Grass Park
+<img src="./example_image/dog.png" alt="dragon"  width="20%" height="20%" />
+&ensp;<img src="./example_image/Bed.png" alt="Eagle1"  width="20%" height="20%" />
+<img src="./example_image/Leaf.png" alt="Eagle"  width="20%" height="20%" />
+<img src="./example_image/Stadium.png" alt="Eagle"  width="20%" height="20%" />
+dog Bed Leaf Stadium
 
 ​                  
 ## 简介
