@@ -105,9 +105,7 @@ python test.py
 
 ## 致谢
 
-此项目基于论文 *DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation* 实现.
 
-此项目基于论文 *Style Injection in Diffusion: A Training-free Approach for Adapting Large-scale Diffusion Models for Style Transfer*实现。
 
 ## 联系方式
 
