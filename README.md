@@ -6,9 +6,16 @@
 &ensp; &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;生成图2
 &ensp; &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;生成图3
 &ensp; &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
-<img src="./example_image/cactus.png" alt="boat" width="20%" height="20%"/>&ensp;<img src="./example_image/Boat.png" alt="Aquarium"  width="20%" height="20%" /><img src="./example_image/Grass.png" alt="Aquarium"  width="20%" height="20%" /><img src="./example_image/Park.png" alt="Aquarium"  width="20%" height="20%" />
 
-<img src="./example_image/dog.png" alt="dragon"  width="20%" height="20%" />&ensp;<img src="./example_image/Bed.png" alt="Eagle1"  width="20%" height="20%" /><img src="./example_image/Leaf.png" alt="Eagle"  width="20%" height="20%" /><img src="./example_image/Stadium.png" alt="Eagle"  width="20%" height="20%" />
+<img src="./example_image/cactus.png" alt="Aquarium" width="20%" height="20%" />
+&ensp;<img src="./example_image/Boat.png" alt="Aquarium"  width="20%" height="20%" />
+<img src="./example_image/Grass.png" alt="Aquarium"  width="20%" height="20%" />
+<img src="./example_image/Park.png" alt="Aquarium"  width="20%" height="20%" />
+
+<img src="./example_image/dog.png" alt="dragon"  width="20%" height="20%" />
+&ensp;<img src="./example_image/Bed.png" alt="Eagle1"  width="20%" height="20%" />
+<img src="./example_image/Leaf.png" alt="Eagle"  width="20%" height="20%" />
+<img src="./example_image/Stadium.png" alt="Eagle"  width="20%" height="20%" />
 
 ​                  
 ## 简介
