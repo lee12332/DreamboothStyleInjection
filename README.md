@@ -1,12 +1,12 @@
 | 第四届计图人工智能挑战赛
 
-# 赛道二：风格迁移图片生成，DreamboothStyleInjection
+# 赛道二：风格迁移图片生成，Stylebooth
 
 实例生成结果：
 
-<img src="./example_image/retro_radio.png" alt="boat" width="30%" height="30%"/><img src="./example_image/Pants1.png" alt="Aquarium"  width="30%" height="30%" /><img src="./example_image/Pants2.png" alt="Aquarium"  width="30%" height="30%" />
+<img src="./example_image/cactus.png" alt="boat" width="30%" height="30%"/><img src="./example_image/Boat.png" alt="Aquarium"  width="30%" height="30%" /><img src="./example_image/Grass.png" alt="Aquarium"  width="30%" height="30%" /><img src="./example_image/Park.png" alt="Aquarium"  width="30%" height="30%" />
 
-<img src="./example_image/golfer.png" alt="dragon"  width="30%" height="30%" /><img src="./example_image/Owl1.png" alt="Eagle1"  width="30%" height="30%" /><img src="./example_image/Owl2.png" alt="Eagle"  width="30%" height="30%" />
+<img src="./example_image/dog.png" alt="dragon"  width="30%" height="30%" /><img src="./example_image/Bed.png" alt="Eagle1"  width="30%" height="30%" /><img src="./example_image/Leaf.png" alt="Eagle"  width="30%" height="30%" /><img src="./example_image/Stadium.png" alt="Eagle"  width="30%" height="30%" />
 
 ​                  参考风格图片        &emsp; &emsp;                 DreamBooth + LoRA       &emsp; &emsp;                           style injection
 
@@ -73,7 +73,6 @@ bash train_all.sh
 ## 复现结果
 一键生成结果可以运行以下命令：
 ```
-cd dreambooth
 python test.py
 ```
 
